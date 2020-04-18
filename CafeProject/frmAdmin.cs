@@ -23,7 +23,7 @@ namespace CafeProject
         {
             if(txtKulAdi.Text=="" || txtSifre.Text=="")
             {
-                MessageBox.Show("Lütfen kullanıcı adını veya şifreyi boş bırakmayınız");
+                kulKontrol(txtKulAdi.Text, DbProcess.md5Encrypt(txtSifre.Text));
             }
             else 
             {

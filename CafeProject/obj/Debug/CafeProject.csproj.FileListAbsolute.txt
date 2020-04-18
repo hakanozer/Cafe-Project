@@ -140,3 +140,24 @@ C:\Users\wissen\Documents\Visual Studio 2012\Projects\Cafe Project\CafeProject\o
 C:\Users\wissen\Documents\Visual Studio 2012\Projects\Cafe Project\CafeProject\obj\Debug\CafeProject.GarsonGuncellemeEkrani.resources
 C:\Users\wissen\Documents\Visual Studio 2012\Projects\Cafe Project\CafeProject\obj\Debug\CafeProject.Properties.Resources.resources
 C:\Users\wissen\Documents\Visual Studio 2012\Projects\Cafe Project\CafeProject\obj\Debug\CafeProject.csproj.GenerateResource.Cache
+C:\Users\YakupKAMAN\Desktop\projeler\Blutuf1\Cafe-Project\CafeProject\bin\Debug\CafeProject.exe.config
+C:\Users\YakupKAMAN\Desktop\projeler\Blutuf1\Cafe-Project\CafeProject\obj\Debug\CafeProject.exe
+C:\Users\YakupKAMAN\Desktop\projeler\Blutuf1\Cafe-Project\CafeProject\obj\Debug\CafeProject.pdb
+C:\Users\YakupKAMAN\Desktop\projeler\Blutuf1\Cafe-Project\CafeProject\bin\Debug\CafeProject.exe
+C:\Users\YakupKAMAN\Desktop\projeler\Blutuf1\Cafe-Project\CafeProject\bin\Debug\CafeProject.pdb
+C:\Users\YakupKAMAN\Desktop\projeler\Blutuf1\Cafe-Project\CafeProject\obj\Debug\CafeProject.csprojResolveAssemblyReference.cache
+C:\Users\YakupKAMAN\Desktop\projeler\Blutuf1\Cafe-Project\CafeProject\obj\Debug\CafeProject.frmAdmin.resources
+C:\Users\YakupKAMAN\Desktop\projeler\Blutuf1\Cafe-Project\CafeProject\obj\Debug\CafeProject.frmAdminPaneli.resources
+C:\Users\YakupKAMAN\Desktop\projeler\Blutuf1\Cafe-Project\CafeProject\obj\Debug\CafeProject.frmAsci.resources
+C:\Users\YakupKAMAN\Desktop\projeler\Blutuf1\Cafe-Project\CafeProject\obj\Debug\CafeProject.frmAsciAyarlar.resources
+C:\Users\YakupKAMAN\Desktop\projeler\Blutuf1\Cafe-Project\CafeProject\obj\Debug\CafeProject.frmAyarlar.resources
+C:\Users\YakupKAMAN\Desktop\projeler\Blutuf1\Cafe-Project\CafeProject\obj\Debug\CafeProject.frmLogin.resources
+C:\Users\YakupKAMAN\Desktop\projeler\Blutuf1\Cafe-Project\CafeProject\obj\Debug\CafeProject.frmKategori.resources
+C:\Users\YakupKAMAN\Desktop\projeler\Blutuf1\Cafe-Project\CafeProject\obj\Debug\CafeProject.frmMasaAtama.resources
+C:\Users\YakupKAMAN\Desktop\projeler\Blutuf1\Cafe-Project\CafeProject\obj\Debug\CafeProject.frmProfil.resources
+C:\Users\YakupKAMAN\Desktop\projeler\Blutuf1\Cafe-Project\CafeProject\obj\Debug\CafeProject.frmProfilGuncelleme.resources
+C:\Users\YakupKAMAN\Desktop\projeler\Blutuf1\Cafe-Project\CafeProject\obj\Debug\CafeProject.frmUrunler.resources
+C:\Users\YakupKAMAN\Desktop\projeler\Blutuf1\Cafe-Project\CafeProject\obj\Debug\CafeProject.GarsonEkrani.resources
+C:\Users\YakupKAMAN\Desktop\projeler\Blutuf1\Cafe-Project\CafeProject\obj\Debug\CafeProject.GarsonGuncellemeEkrani.resources
+C:\Users\YakupKAMAN\Desktop\projeler\Blutuf1\Cafe-Project\CafeProject\obj\Debug\CafeProject.Properties.Resources.resources
+C:\Users\YakupKAMAN\Desktop\projeler\Blutuf1\Cafe-Project\CafeProject\obj\Debug\CafeProject.csproj.GenerateResource.Cache
